@@ -52,6 +52,16 @@ Turn entire websites into LLM-ready markdown or structured data. Our flagship pr
 
 <br clear="right"/>
 
+### Cloud API
+<a href="https://firecrawl.dev">
+  <img align="right" src="https://img.shields.io/badge/Cloud_API-FF6B35?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud API">
+</a>
+
+**[Firecrawl](https://firecrawl.dev)** - Hosted API Service  
+Production-ready web scraping without infrastructure management. Get your API key and start scraping in minutes with our reliable, scalable cloud service.
+
+<br clear="right"/>
+
 ### MCP Integration
 <a href="https://github.com/mendableai/firecrawl-mcp-server">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mendableai&repo=firecrawl-mcp-server&theme=light" />
@@ -59,16 +69,6 @@ Turn entire websites into LLM-ready markdown or structured data. Our flagship pr
 
 **[firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server)** - Model Context Protocol Server  
 Add powerful web scraping capabilities to Claude, Cursor, and any MCP-compatible LLM client.
-
-<br clear="right"/>
-
-### Examples & Templates
-<a href="https://github.com/mendableai/firecrawl-app-examples">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mendableai&repo=firecrawl-app-examples&theme=light" />
-</a>
-
-**[firecrawl-app-examples](https://github.com/mendableai/firecrawl-app-examples)** - Complete Applications  
-Production-ready examples and templates to jumpstart your projects.
 
 <br clear="right"/>
 
