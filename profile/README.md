@@ -87,6 +87,9 @@ Add powerful web scraping capabilities to Claude, Cursor, and any MCP-compatible
   <a href="https://github.com/mendableai/firecrawl/discussions">
     <img src="https://img.shields.io/badge/GitHub_Discussions-181717?style=for-the-badge&logo=github&logoColor=white" alt="Discussions">
   </a>
+  <a href="https://docs.firecrawl.dev">
+    <img src="https://img.shields.io/badge/Documentation-4A90E2?style=for-the-badge&logo=book&logoColor=white" alt="Documentation">
+  </a>
 </div>
 
 ## Built By Mendable
