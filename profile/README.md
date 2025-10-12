@@ -64,7 +64,7 @@ Production-ready web scraping without infrastructure management. Get your API ke
 
 ### MCP Integration
 <a href="https://github.com/mendableai/firecrawl-mcp-server">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mendableai&repo=firecrawl-mcp-server&theme=light" />
+  <img align="right" src="https://img.shields.io/badge/MCP_Server-4A90E2?style=for-the-badge&logo=server&logoColor=white" alt="MCP Server">
 </a>
 
 **[firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server)** - Model Context Protocol Server  
