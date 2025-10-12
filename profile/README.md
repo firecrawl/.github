@@ -89,13 +89,6 @@ Add powerful web scraping capabilities to Claude, Cursor, and any MCP-compatible
   </a>
 </div>
 
-<br>
-
-- **[Discord Community](https://discord.com/invite/gSmWdAkdwd)** - Get help and share your projects
-- **[Issue Tracker](https://github.com/mendableai/firecrawl/issues)** - Report bugs and request features
-- **[Documentation](https://docs.firecrawl.dev)** - Comprehensive guides and API reference
-- **[Roadmap](https://github.com/mendableai/firecrawl/projects)** - See what we're building next
-
 ## Built By Mendable
 
 We're the team behind [Mendable.ai](https://mendable.ai), passionate about making web data accessible for AI applications. Firecrawl powers thousands of AI products worldwide.
