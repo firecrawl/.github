@@ -1,5 +1,3 @@
-# 🔥 Firecrawl
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/mendableai/firecrawl/main/img/firecrawl_logo.png" alt="Firecrawl Logo" height="120">
   
@@ -44,7 +42,7 @@
 
 ### Main Repository
 <a href="https://github.com/mendableai/firecrawl">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mendableai&repo=firecrawl&theme=light" />
+  <img align="right" src="https://img.shields.io/github/stars/mendableai/firecrawl?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=FF6B35" alt="Stars">
 </a>
 
 **[firecrawl](https://github.com/mendableai/firecrawl)** - Core API & SDK  
@@ -72,6 +70,16 @@ Add powerful web scraping capabilities to Claude, Cursor, and any MCP-compatible
 
 <br clear="right"/>
 
+### Skill + CLI
+<a href="https://github.com/firecrawl/firecrawl-cli">
+  <img align="right" src="https://img.shields.io/badge/Skill_+_CLI-50C878?style=for-the-badge&logo=gnubash&logoColor=white" alt="Skill + CLI">
+</a>
+
+**[firecrawl-cli](https://github.com/firecrawl/firecrawl-cli)** - Agent Skill & Command-Line Tool  
+Give AI agents real-time web data. Install with `npx skills add firecrawl/cli` and agents like Claude Code, Codex, and Gemini CLI can scrape, crawl, map, and search the web autonomously.
+
+<br clear="right"/>
+
 ## Community & Support
 
 <div align="center">
@@ -91,10 +99,6 @@ Add powerful web scraping capabilities to Claude, Cursor, and any MCP-compatible
     <img src="https://img.shields.io/badge/Documentation-4A90E2?style=for-the-badge&logo=book&logoColor=white" alt="Documentation">
   </a>
 </div>
-
-## Built By Mendable
-
-We're the team behind [Mendable.ai](https://mendable.ai), passionate about making web data accessible for AI applications. Firecrawl powers thousands of AI products worldwide.
 
 ---
 
