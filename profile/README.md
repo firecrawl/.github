@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/mendableai/firecrawl/main/img/firecrawl_logo.png" alt="Firecrawl Logo" height="120">
   
-  <h3>Transform any website into LLM-ready data</h3>
-  <p>Advanced web scraping, crawling, and data extraction infrastructure for AI applications</p>
+  <h3>Power AI agents with clean web data</h3>
+  <p>The API to search, scrape, and interact with the web at scale.</p>
   
   <a href="https://firecrawl.dev">
     <img src="https://img.shields.io/badge/🚀_Get_Started-FF6B35?style=for-the-badge" alt="Get Started">
