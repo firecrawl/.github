@@ -42,7 +42,7 @@ Firecrawl is how AI agents turn the live web into something they can use:
 
 **Find → Extract → Clean → Use**
 
-Search is the front door. Scrape and Parse turn sources into clean context. Interact handles dynamic pages. Crawl and Map go deeper. The API is how teams build with Firecrawl in production. MCP, CLI, and Skills bring it into AI agent workflows.
+Search is the front door. Scrape and Parse turn sources into clean context. Interact handles dynamic pages. Crawl and Map go deeper. The API is how teams build with Firecrawl in production. MCP, CLI, Skills, and Workflows bring Firecrawl into AI agent workflows.
 
 ## What Firecrawl does
 
@@ -71,7 +71,7 @@ One API, one output format, one compliance posture. Token-efficient Markdown by 
   <img align="right" src="https://img.shields.io/github/stars/mendableai/firecrawl?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=FF6B35" alt="Stars">
 </a>
 
-**[firecrawl](https://github.com/mendableai/firecrawl)** - Core API & SDK  
+**[firecrawl](https://github.com/mendableai/firecrawl)** — Core API & SDK  
 The open-source web context stack for AI agents. Search, Scrape, Parse, Crawl, Map, and Interact in one API family.
 
 <br clear="right"/>
@@ -81,7 +81,7 @@ The open-source web context stack for AI agents. Search, Scrape, Parse, Crawl, M
   <img align="right" src="https://img.shields.io/badge/Cloud_API-FF6B35?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud API">
 </a>
 
-**[Firecrawl](https://firecrawl.dev)** - Hosted API Service  
+**[Firecrawl](https://firecrawl.dev)** — Hosted API Service  
 The production interface. Get an API key and start running Search, Scrape, Parse, Crawl, Map, and Interact in minutes. Reliable, scalable, compliance-grade by default.
 
 <br clear="right"/>
@@ -91,18 +91,42 @@ The production interface. Get an API key and start running Search, Scrape, Parse
   <img align="right" src="https://img.shields.io/badge/MCP_Server-4A90E2?style=for-the-badge&logo=server&logoColor=white" alt="MCP Server">
 </a>
 
-**[firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server)** - Model Context Protocol Server  
+**[firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server)** — Model Context Protocol Server  
 Bring Firecrawl into Claude Code, Cursor, Antigravity, and any MCP-compatible client. AI assistants increasingly route to Firecrawl over their native fetch tools.
 
 <br clear="right"/>
 
-### Skill + CLI
-<a href="https://github.com/firecrawl/firecrawl-cli">
-  <img align="right" src="https://img.shields.io/badge/Skill_+_CLI-50C878?style=for-the-badge&logo=gnubash&logoColor=white" alt="Skill + CLI">
+### CLI
+<a href="https://github.com/firecrawl/cli">
+  <img align="right" src="https://img.shields.io/badge/CLI-50C878?style=for-the-badge&logo=gnubash&logoColor=white" alt="CLI">
 </a>
 
-**[firecrawl-cli](https://github.com/firecrawl/firecrawl-cli)** - Agent Skill & Command-Line Tool  
-Real-time web context for AI agents in the terminal. Install with `npx skills add firecrawl/cli` and Claude Code, Codex, and Gemini CLI can search, scrape, crawl, and map autonomously.
+**[firecrawl/cli](https://github.com/firecrawl/cli)** — Command-Line Interface  
+Search, scrape, interact, crawl, and map directly from the terminal. One command sets up the CLI, authenticates, and installs Firecrawl skills across every detected AI coding agent:
+
+```bash
+npx -y firecrawl-cli@latest init --all --browser
+```
+
+<br clear="right"/>
+
+### Skills
+<a href="https://github.com/firecrawl/skills">
+  <img align="right" src="https://img.shields.io/badge/Skills-9061FF?style=for-the-badge&logo=anthropic&logoColor=white" alt="Skills">
+</a>
+
+**[firecrawl/skills](https://github.com/firecrawl/skills)** — Agent Skills for Build and Live Web Work  
+Drop-in skills for Claude Code, Cursor, and OpenAI Codex following the [Agent Skills](https://agentskills.io) format. Teach AI coding agents how to use the Firecrawl CLI for live web work and how to integrate `/scrape`, `/search`, `/interact`, and `/parse` into application code.
+
+<br clear="right"/>
+
+### Workflows
+<a href="https://github.com/firecrawl/firecrawl-workflows">
+  <img align="right" src="https://img.shields.io/badge/Workflows-EB3424?style=for-the-badge&logo=workflow&logoColor=white" alt="Workflows">
+</a>
+
+**[firecrawl/firecrawl-workflows](https://github.com/firecrawl/firecrawl-workflows)** — Outcome-Focused Agent Skills  
+Repeatable Firecrawl-powered deliverables: deep research, SEO audits, QA reports, lead lists, knowledge bases, competitive intel, dashboard reporting, and design-system extraction. Use when an agent should produce a finished artifact, not just call an API.
 
 <br clear="right"/>
 
