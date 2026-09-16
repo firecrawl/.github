@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/mendableai/firecrawl/main/img/firecrawl_logo.png" alt="Firecrawl Logo" height="120">
   
   <h3>Search, scrape, and clean the web for AI agents</h3>
-  <p>Web context APIs built for AI agents. Live web in. Clean context out.</p>
+  <p>The web data API for AI agents. Live web in. Clean context out.</p>
   
   <a href="https://firecrawl.dev">
     <img src="https://img.shields.io/badge/🚀_Get_Started-FF6B35?style=for-the-badge" alt="Get Started">
@@ -72,7 +72,7 @@ One API, one output format, one compliance posture. Token-efficient Markdown by 
 </a>
 
 **[firecrawl](https://github.com/mendableai/firecrawl)** — Core API & SDK  
-The open-source web context stack for AI agents. Search, Scrape, Parse, Crawl, Map, and Interact in one API family.
+The open-source web data API for AI agents. Search, Scrape, Parse, Crawl, Map, and Interact in one API family.
 
 <br clear="right"/>
 
