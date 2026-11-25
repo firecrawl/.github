@@ -27,8 +27,8 @@
   <a href="https://pepy.tech/project/firecrawl-py">
     <img src="https://static.pepy.tech/badge/firecrawl-py" alt="Python Downloads">
   </a>
-  <a href="https://x.com/firecrawl_dev">
-    <img src="https://img.shields.io/twitter/follow/firecrawl_dev?style=social" alt="Follow on X">
+  <a href="https://x.com/firecrawl">
+    <img src="https://img.shields.io/twitter/follow/firecrawl?style=social" alt="Follow on X">
   </a>
 </div>
 
@@ -142,7 +142,7 @@ Repeatable Firecrawl-powered deliverables: deep research, SEO audits, QA reports
   <a href="https://discord.com/invite/gSmWdAkdwd">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://x.com/firecrawl_dev">
+  <a href="https://x.com/firecrawl">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
   <a href="https://www.linkedin.com/company/104100957/">
